@@ -1,0 +1,2 @@
+Hello, We are going to read our first data from a stream.
+Success.
