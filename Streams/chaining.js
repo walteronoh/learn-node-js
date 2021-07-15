@@ -1,7 +1,6 @@
 //Mechanism to connect the output of one stream to another stream and create a chain of multilple stream operations
 //Require the filesystem module
 const fs = require("fs");
-const { cpuUsage } = require("process");
 //Require the compress module
 const zlib = require("zlib");
 
