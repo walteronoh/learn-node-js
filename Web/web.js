@@ -11,7 +11,7 @@ http.createServer((request,response)=>{
     //Send the response body
     response.end("Hello World");
 }).listen(port);
-console.log(`Running on port: 127.0.0.0:${port}`);
+console.log(`Running on port: 127.0.0.1:${port}`);
 
 //Node consoles
 //1. console.log() - Displays simple message on console. e.g console.log("Hello there");

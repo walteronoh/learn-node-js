@@ -1,4 +1,4 @@
-//StringDecoder is used to docode buffer into string.
+//StringDecoder is used to decode buffer into string.
 //It is similar to Buffer.toString() only that it provides extra support to UTF
 
 //Import 'string_decoder' to use StringDecoder module
